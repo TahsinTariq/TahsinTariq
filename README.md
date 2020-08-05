@@ -3,7 +3,7 @@ I'm Tahsin and currently I'm studying Robotics and Mechatronics Engineering.
 
 While I'm not being bored to death in class, I love making code that move stuff on the screen.
 
-I'm currently trying to [host a website on github]{https://tahsintariq.github.io/}
+I'm currently trying to [host a website on github](https://tahsintariq.github.io/)
 
 <!--
 **TahsinTariq/TahsinTariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
