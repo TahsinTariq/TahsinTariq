@@ -1,4 +1,4 @@
-# Hello There!! 👋
+# Hello There  (･ω･)ﾉ
 I'm Tahsin and currently I'm studying Robotics and Mechatronics Engineering.
 
 While I'm not being bored to death in class, I'm probably writting code to make stuff move on the screen.
