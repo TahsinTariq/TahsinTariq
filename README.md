@@ -4,10 +4,12 @@ I'm Tahsin and currently I'm studying Robotics and Mechatronics Engineering.
 While I'm not being bored to death in class, I'm probably writting code to make stuff move on the screen.
 
 Right now, I'm trying to [host a website on github](https://tahsintariq.github.io/), learning to make generative art [using processing](https://processing.org/) and experimenting with Rust, Python and Linux.
-
+ 
+<p align="center">
 <a href="https://github.com/tahsintariq" >
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsintariq&layout=compact&title_color=78DCE8&text_color=A9DC76&icon_color=8FBCBB&border_color=78DCE8&bg_color=2E3440&card_width=400&langs_count=8&hide=Jupyter%20Notebook&border_radius=30&custom_title=My%20most%20used%20languages">
 </a>
+ </p>
 
 
 <!--
